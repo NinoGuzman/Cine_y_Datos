@@ -2,5 +2,5 @@
 
 En este notebook puedes encontrar una introducción a través de un ejemplo concreto para empezar con Web Scraping en Python.
 
-Leer tutorial y nota completa en: [ref][] []
+Leer tutorial y nota completa en: [Medium][id] [id]: https://ninogdo.medium.com
 
